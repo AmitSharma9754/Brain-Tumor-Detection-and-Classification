@@ -1,4 +1,4 @@
-#  Design and Development of a Deep Learning-Based Brain Tumor Detection and Classification System
+#  Design and Development of a Brain Tumor Detection and Classification System
 
 ##  Project Overview
 

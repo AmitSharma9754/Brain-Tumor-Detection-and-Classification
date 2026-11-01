@@ -1,6 +1,6 @@
-# 🧠 Design and Development of a Deep Learning-Based Brain Tumor Detection and Classification System
+#  Design and Development of a Deep Learning-Based Brain Tumor Detection and Classification System
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Brain Tumor Detection and Classification System** is a deep learning-based application designed to analyze brain MRI images and classify them into four categories using a Convolutional Neural Network (CNN).
 
@@ -10,7 +10,7 @@ The application is developed for educational and research purposes to demonstrat
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Develop a CNN-based brain tumor detection and classification model.
 - Classify brain MRI images into four categories.
@@ -21,7 +21,7 @@ The application is developed for educational and research purposes to demonstrat
 
 ---
 
-## 🧠 Tumor Classification Categories
+##  Tumor Classification Categories
 
 The system classifies MRI images into the following four categories:
 
@@ -34,7 +34,7 @@ The system classifies MRI images into the following four categories:
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **MRI Image Upload:** Upload brain MRI images in JPG or PNG format.
 - **Tumor Classification:** Predicts one of four brain MRI categories.
@@ -47,7 +47,7 @@ The system classifies MRI images into the following four categories:
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -66,7 +66,7 @@ The system classifies MRI images into the following four categories:
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 The system follows the workflow below:
 
@@ -102,7 +102,7 @@ The system follows the workflow below:
 
 ---
 
-## 🧬 CNN Model Architecture
+##  CNN Model Architecture
 
 The model uses a Convolutional Neural Network architecture for image feature extraction and classification.
 
@@ -142,7 +142,7 @@ Output Layer
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Brain-Tumor-Detection-and-Classification/
@@ -171,7 +171,7 @@ Brain-Tumor-Detection-and-Classification/
 
 ---
 
-## 📊 Model Performance Evaluation
+##  Model Performance Evaluation
 
 The model is evaluated using the following metrics:
 
@@ -187,7 +187,7 @@ The actual model performance values are available in the application's **Accurac
 
 ---
 
-## 🚀 Installation and Execution
+##  Installation and Execution
 
 ### 1. Clone the Repository
 
@@ -237,7 +237,7 @@ The application will open in your default browser.
 
 ---
 
-## 🏋️ Model Training
+##  Model Training
 
 To train the CNN model using the training notebook:
 
@@ -251,7 +251,7 @@ The application uses the saved trained model for MRI image classification.
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 The dataset contains brain MRI images organized into training and testing categories.
 
@@ -274,7 +274,7 @@ dataset/
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Improve classification performance through hyperparameter optimization.
 - Implement transfer learning using pretrained CNN architectures.
@@ -285,7 +285,7 @@ dataset/
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project is developed strictly for educational and research purposes.
 
@@ -295,7 +295,7 @@ Always consult a qualified healthcare professional for medical evaluation and de
 
 ---
 
-## 👨‍💻 Project Developers
+##  Project Developers
 
 This project was collaboratively developed by:
 
@@ -303,15 +303,17 @@ This project was collaboratively developed by:
 B.Tech – Artificial Intelligence  
 Madhav Institute of Technology and Science (MITS), Gwalior, India
 
-GitHub: [AmitSharma9754](https://github.com/AmitSharma9754)
+GitHub: (https://github.com/AmitSharma9754)
 
 ### Krishna Gupta
 B.Tech – Artificial Intelligence  
 Madhav Institute of Technology and Science (MITS), Gwalior, India
 
+GitHub: (https://github.com/Krishna28Gupta)
+
 ---
 
-## ⭐ Acknowledgements
+##  Acknowledgements
 
 We would like to acknowledge our college, faculty members, and the open-source community for their support and resources throughout the development of this project.
 

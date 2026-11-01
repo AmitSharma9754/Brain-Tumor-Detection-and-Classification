@@ -270,6 +270,10 @@ dataset/
     └── pituitary/
 ```
 
+## Dataset
+
+🔗 [Brain Tumor MRI Dataset – Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+
 **Note:** The dataset is not included in this repository. Please configure the dataset paths before training the model.
 
 ---

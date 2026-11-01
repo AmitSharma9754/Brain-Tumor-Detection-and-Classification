@@ -303,13 +303,13 @@ This project was collaboratively developed by:
 B.Tech – Artificial Intelligence  
 Madhav Institute of Technology and Science (MITS), Gwalior, India
 
-GitHub: (https://github.com/AmitSharma9754)
+GitHub: https://github.com/AmitSharma9754
 
 ### Krishna Gupta
 B.Tech – Artificial Intelligence  
 Madhav Institute of Technology and Science (MITS), Gwalior, India
 
-GitHub: (https://github.com/Krishna28Gupta)
+GitHub: https://github.com/Krishna28Gupta
 
 ---
 
